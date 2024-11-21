@@ -14,15 +14,19 @@ This repository documents the setup and configuration of a personal NAS using Tr
 - Explore the functionality of TrueNAS on limited hardware.
 
 ## Contents
-- Configuration scripts for TrueNAS setup
-- Documentation of network and storage configurations
-- Backup and restore scripts
+- [Proxmox Setup Guide](docs/proxmox-setup-guide.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- Example configurations in the `configs/` directory.
 
 ## Setup Instructions
 1. Install TrueNAS on the single drive.
 2. Configure network shares via SMB.
 3. Set up user accounts and permissions.
 4. Regularly back up data to external devices.
+
+## Quick Start
+1. Follow the [Proxmox Setup Guide](docs/proxmox-setup-guide.md).
+2. Use the provided configurations and tips to customize your installation.
 
 ## Limitations
 - No RAID or redundancy; data loss is possible in the event of drive failure.
