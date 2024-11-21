@@ -16,6 +16,7 @@ This repository documents the setup and configuration of a personal NAS using Tr
 ## Contents
 - [Proxmox Setup Guide](docs/proxmox-setup-guide.md)
 - [Troubleshooting](docs/troubleshooting.md)
+- [Installing TrueNAS on Proxmox](docs/truenas-on-proxmox-guide.md)
 - Example configurations in the `configs/` directory.
 
 ## Setup Instructions
