@@ -4,7 +4,7 @@ This guide details each step to install Proxmox Virtual Environment 7.x on your 
 
 ---
 
-## Hardware Specifications
+## [Hardware Specifications](#hardware-specifications)
 
 - **Model:** HP ProDesk 400 G4 Desktop Small Form Factor  
 - **Processor:** Intel Quad-Core i5-6500 (up to 3.6 GHz)  
@@ -15,15 +15,15 @@ This guide details each step to install Proxmox Virtual Environment 7.x on your 
 
 ---
 
-## Pre-Installation Steps
+## [Pre-Installation Steps](#pre-installation-steps)
 
 1. **Backup Your Data:**  
    Ensure that you have a backup of any important data since the installation will overwrite the existing OS.
 
-2. **Download Proxmox VE ISO:**  
+### [Download Proxmox VE ISO](#download-proxmox-ve-iso)
    - Visit the [Proxmox Download Page](https://www.proxmox.com/en/downloads/category/iso-images-pve) and download the latest Proxmox VE 7.x ISO image.
 
-3. **Create a Bootable USB Drive:**  
+### [Create a Bootable USB Drive](#create-a-bootable-usb-drive)
    - **For Windows Users:**  
      Use [Rufus](https://rufus.ie) to create a bootable USB drive:
      - Open Rufus.
@@ -38,7 +38,7 @@ This guide details each step to install Proxmox Virtual Environment 7.x on your 
 
 ---
 
-## 1. Entering the BIOS
+## [Entering the BIOS](#entering-the-bios)
 
 1. **Access the BIOS:**  
    - Restart your HP ProDesk 400 G4.
@@ -60,7 +60,7 @@ This guide details each step to install Proxmox Virtual Environment 7.x on your 
 
 ---
 
-## 2. Installing Proxmox VE
+## [Installing Proxmox VE](#installing-proxmox-ve)
 
 1. **Boot from the USB Drive:**  
    - With the bootable USB inserted, restart the system.
@@ -91,7 +91,7 @@ This guide details each step to install Proxmox Virtual Environment 7.x on your 
 
 ---
 
-## 3. Post-Installation Setup
+## [Post-Installation Setup](#post-installation-setup)
 
 1. **Reboot the System:**  
    - After the installation completes, remove the USB drive.
@@ -114,7 +114,7 @@ This guide details each step to install Proxmox Virtual Environment 7.x on your 
 
 ---
 
-## Final Notes
+## [Final Notes](#final-notes)
 
 - **BIOS Considerations:** The steps provided assume use of UEFI mode. If you choose Legacy BIOS mode, ensure the boot settings match accordingly.
 - **Hardware Limitations:** With 8GB of RAM and a 240GB SSD, plan your virtual machine usage accordingly, as these resources are modest for a production environment.
