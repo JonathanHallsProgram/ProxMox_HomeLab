@@ -16,8 +16,4 @@ Proxmox is an open-source virtualization platform that combines two virtualizati
 
 ## Getting Started
 
-To get started, please refer to the [Step-by-Step Guide](docs/step-by-step-guide.md).
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+To get started, please refer to the [Step-by-Step Guide](step-by-step-guide.md).
