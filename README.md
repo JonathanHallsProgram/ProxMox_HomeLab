@@ -50,7 +50,6 @@ Before you begin, make sure you have the following:
 - **README.md:** This file, providing an overview and navigation instructions.
 - **docs/step-by-step-guide.md:** Detailed step-by-step instructions for the installation.
 - **images/**: Directory containing images and screenshots (e.g., BIOS settings, boot order).
-- **LICENSE:** Contains the project’s license information (MIT License by default).
 
 ---
 
