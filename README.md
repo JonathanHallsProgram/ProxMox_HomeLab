@@ -16,4 +16,4 @@ Proxmox is an open-source virtualization platform that combines two virtualizati
 
 ## Getting Started
 
-To get started, please refer to the [Step-by-Step Guide](docs/step-by-step-guide.md).
+To get started, please refer to the [Step-by-Step Guide](step-by-step-guide.md).
