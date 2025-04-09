@@ -6,7 +6,7 @@ This repository provides a comprehensive, step-by-step guide for installing Prox
 
 - [Introduction](#introduction)
 - [Pre-Installation Requirements](#pre-installation-requirements)
-- [Step-by-Step Guide](docs/step-by-step-guide.md)
+- [Step-by-Step Guide](step-by-step-guide.md)
 - [Post-Installation Setup](#post-installation-setup)
 - [Troubleshooting](#troubleshooting)
 
