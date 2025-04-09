@@ -51,7 +51,7 @@
   - **Network Configuration:**  
      Configure the network settings to ensure proper connectivity.
   
-     ## 6. Post-Installation Setup
+## 6. Post-Installation Setup
   
   - **Reboot:**  
      After installation, remove the USB drive and reboot your system.
